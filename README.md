@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Helpful links used in tutorial
+Material icons: [https://mui.com/material-ui/material-icons/](https://mui.com/material-ui/material-icons/)
+Box Shadow CSS Generator: [https://html-css-js.com/css/generator/box-shadow/](https://html-css-js.com/css/generator/box-shadow/)
+Useful React Charts: [https://recharts.org/en-US/guide/getting-started](https://recharts.org/en-US/guide/getting-started)
