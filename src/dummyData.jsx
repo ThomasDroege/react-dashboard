@@ -47,7 +47,23 @@ export const userData = [
       name: 'Dec',
       "Active User": 4000,
     },
+  ];
+
+  export const productData = [
+    {
+      name: 'Jan',
+      "Sales": 4000,
+    },
+    {
+      name: 'Feb',
+      "Sales": 3000,
+    },
+    {
+      name: 'Mar',
+      "Sales": 5000,
+    }
   ]
+
 
 
   export const userRows = [
@@ -69,5 +85,27 @@ export const userData = [
     email:"Jon@gmail.com", status:"active", transaction:"$120.00" },
     { id: 9, userName: 'Jon Snow', avatar:"https://www.thestatesman.com/wp-content/uploads/2017/08/1493458748-beauty-face-517.jpg",
     email:"Jon@gmail.com", status:"active", transaction:"$120.00" },
+   
+  ];
+
+  export const productRows = [
+    { id: 1, name: 'Apple Airpods', img:"https://www.telekom.de/resources/images/925812/apple-airpods-pro-2-gereration-weiss-vorne-99933874.png",
+    stock: 123, status:"active", price:"$120.00" },
+    { id: 2, name: 'Apple Airpods', img:"https://www.telekom.de/resources/images/925812/apple-airpods-pro-2-gereration-weiss-vorne-99933874.png",
+    stock: 123, status:"active", price:"$120.00" },
+    { id: 3, name: 'Apple Airpods', img:"https://www.telekom.de/resources/images/925812/apple-airpods-pro-2-gereration-weiss-vorne-99933874.png",
+    stock: 123, status:"active", price:"$120.00" },
+    { id: 4, name: 'Apple Airpods', img:"https://www.telekom.de/resources/images/925812/apple-airpods-pro-2-gereration-weiss-vorne-99933874.png",
+    stock: 123, status:"active", price:"$120.00" },
+    { id: 5, name: 'Apple Airpods', img:"https://www.telekom.de/resources/images/925812/apple-airpods-pro-2-gereration-weiss-vorne-99933874.png",
+    stock: 123, status:"active", price:"$120.00" },
+    { id: 6, name: 'Apple Airpods', img:"https://www.telekom.de/resources/images/925812/apple-airpods-pro-2-gereration-weiss-vorne-99933874.png",
+    stock: 123, status:"active", price:"$120.00" },
+    { id: 7, name: 'Apple Airpods', img:"https://www.telekom.de/resources/images/925812/apple-airpods-pro-2-gereration-weiss-vorne-99933874.png",
+    stock: 123, status:"active", price:"$120.00" },
+    { id: 8, name: 'Apple Airpods', img:"https://www.telekom.de/resources/images/925812/apple-airpods-pro-2-gereration-weiss-vorne-99933874.png",
+    stock: 123, status:"active", price:"$120.00" },
+    { id: 9, name: 'Apple Airpods', img:"https://www.telekom.de/resources/images/925812/apple-airpods-pro-2-gereration-weiss-vorne-99933874.png",
+    stock: 123, status:"active", price:"$120.00" },
    
   ];
